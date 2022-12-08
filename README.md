@@ -105,7 +105,7 @@ These instructions will help get Distiller up and running on your local machine.
   
 Clone the Distiller code repository from github:
 ```
-$ git clone https://github.com/IntelLabs/distiller.git
+$ git clone https://github.com/SunHaozhe/distiller.git
 ```
 The rest of the documentation that follows, assumes that you have cloned your repository to a directory called ```distiller```. <br>
 </p>
